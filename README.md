@@ -2,6 +2,8 @@
 
 This project implements a collaborative filtering approach for product recommendations using user and item-based methods. It leverages a dataset of user-product ratings to create personalized recommendations based on the historical preferences of users. The key components of the project include data preprocessing, visualizations, and model evaluation for both user-based and item-based collaborative filtering. 
 
+## Dataset - https://www.kaggle.com/datasets/trnduythanhkhttt/uelstoredataset
+
 ## Key Features
 
 ### 1. Data Preprocessing
